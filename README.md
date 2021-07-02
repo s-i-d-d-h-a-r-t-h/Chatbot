@@ -1,5 +1,11 @@
 A simple chatbot using Python.
 
+## Steps
+1. Splitting adn encoding dataset
+2. Applying tokenization and padding
+3. Building and training model
+4. Chat
+
 ## Libraries used
 1. Json
 2. Numpy
